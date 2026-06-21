@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:lapis_lazuli"
+    }
+  ],
+  "result": {
+    "id": "minecraft:music_disc_13",
+    "count": 1,
+    "components": {
+      "minecraft:item_name": {
+        "translate": "item.dp_music.red_blue_battle"
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          17.0
+        ]
+      },
+      "minecraft:jukebox_playable": {
+        "song": "dp_music:red_blue_battle"
+      }
+    }
+  }
+}

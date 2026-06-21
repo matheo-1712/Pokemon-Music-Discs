@@ -1,0 +1,134 @@
+{
+  "parent": "minecraft:item/template_music_disc",
+  "textures": {
+    "layer0": "minecraft:item/music_disc_13"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "pokemon_disc:item/discs/elsa_mina_battle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "pokemon_disc:item/discs/red_battle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "pokemon_disc:item/discs/timmy_battle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "pokemon_disc:item/discs/volo_battle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "pokemon_disc:item/discs/cynthia_battle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "pokemon_disc:item/discs/corvault_battle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "pokemon_disc:item/discs/dianthea_battle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "pokemon_disc:item/discs/djm_dialga_final_theme"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "pokemon_disc:item/discs/final_boss_ev"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "pokemon_disc:item/discs/gladio_battle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "pokemon_disc:item/discs/guzma_battle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "pokemon_disc:item/discs/gym_battle_sl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "pokemon_disc:item/discs/gym_battle_eb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "pokemon_disc:item/discs/iris_battle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "pokemon_disc:item/discs/jacinthe_battle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "pokemon_disc:item/discs/penny_battle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "pokemon_disc:item/discs/red_blue_battle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "pokemon_disc:item/discs/teamstar_battle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "pokemon_disc:item/discs/ultranecrozma_battle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "pokemon_disc:item/discs/travis_battle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "pokemon_disc:item/discs/zacian_illusion"
+    }
+  ]
+}
