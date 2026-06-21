@@ -34,14 +34,8 @@
     "id": "minecraft:music_disc_13",
     "count": 1,
     "components": {
-      "minecraft:item_name": {
-        "translate": "item.dp_music.gym_battle_sl"
-      },
-      "minecraft:custom_model_data": {
-        "floats": [
-          12.0
-        ]
-      },
+      "minecraft:item_name": "{\"translate\":\"item.dp_music.gym_battle_sl\"}",
+      "minecraft:custom_model_data": 12,
       "minecraft:jukebox_playable": {
         "song": "dp_music:gym_battle_sl"
       }

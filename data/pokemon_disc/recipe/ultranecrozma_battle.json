@@ -34,14 +34,8 @@
     "id": "minecraft:music_disc_13",
     "count": 1,
     "components": {
-      "minecraft:item_name": {
-        "translate": "item.dp_music.ultranecrozma_battle"
-      },
-      "minecraft:custom_model_data": {
-        "floats": [
-          19.0
-        ]
-      },
+      "minecraft:item_name": "{\"translate\":\"item.dp_music.ultranecrozma_battle\"}",
+      "minecraft:custom_model_data": 19,
       "minecraft:jukebox_playable": {
         "song": "dp_music:ultranecrozma_battle"
       }

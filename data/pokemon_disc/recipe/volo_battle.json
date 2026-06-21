@@ -34,14 +34,8 @@
     "id": "minecraft:music_disc_13",
     "count": 1,
     "components": {
-      "minecraft:item_name": {
-        "translate": "item.dp_music.volo_battle"
-      },
-      "minecraft:custom_model_data": {
-        "floats": [
-          4.0
-        ]
-      },
+      "minecraft:item_name": "{\"translate\":\"item.dp_music.volo_battle\"}",
+      "minecraft:custom_model_data": 4,
       "minecraft:jukebox_playable": {
         "song": "dp_music:volo_battle"
       }
