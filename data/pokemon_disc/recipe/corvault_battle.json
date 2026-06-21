@@ -1,0 +1,44 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:echo_shard"
+    }
+  ],
+  "result": {
+    "id": "minecraft:music_disc_13",
+    "count": 1,
+    "components": {
+      "minecraft:item_name": "{\"translate\":\"item.dp_music.corvault_battle\"}",
+      "minecraft:custom_model_data": 6,
+      "minecraft:jukebox_playable": {
+        "song": "dp_music:corvault_battle"
+      }
+    }
+  }
+}

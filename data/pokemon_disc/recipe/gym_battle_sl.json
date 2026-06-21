@@ -1,0 +1,44 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    }
+  ],
+  "result": {
+    "id": "minecraft:music_disc_13",
+    "count": 1,
+    "components": {
+      "minecraft:item_name": "{\"translate\":\"item.dp_music.gym_battle_sl\"}",
+      "minecraft:custom_model_data": 12,
+      "minecraft:jukebox_playable": {
+        "song": "dp_music:gym_battle_sl"
+      }
+    }
+  }
+}

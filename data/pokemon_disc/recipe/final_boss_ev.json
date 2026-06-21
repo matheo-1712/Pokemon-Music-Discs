@@ -1,0 +1,44 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:nether_star"
+    }
+  ],
+  "result": {
+    "id": "minecraft:music_disc_13",
+    "count": 1,
+    "components": {
+      "minecraft:item_name": "{\"translate\":\"item.dp_music.final_boss_ev\"}",
+      "minecraft:custom_model_data": 9,
+      "minecraft:jukebox_playable": {
+        "song": "dp_music:final_boss_ev"
+      }
+    }
+  }
+}
